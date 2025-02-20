@@ -3,6 +3,7 @@
 ### Overview
 This repository contains an exploratory data analysis and visualization of the 2022 election results in the state of Tocantins (TO). The project was developed as part of an academic assignment.
 
+![Dash home](27.0.0.1.jpeg)
 
 ### Project Details
 - The analysis focused on basic exploratory data techniques applied to the election results dataset.
